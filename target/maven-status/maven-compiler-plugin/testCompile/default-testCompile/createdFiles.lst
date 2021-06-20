@@ -1,0 +1,6 @@
+org\lookout\auction\Auction\AuctionTest.class
+org\lookout\auction\Auction\ExecuteBiddingITest.class
+org\lookout\auction\Bid\BidTest.class
+org\lookout\auction\Bid\BidTest$1.class
+org\lookout\auction\Auction\ExecuteBiddingIT.class
+org\lookout\auction\Bidder\BidderTest.class
